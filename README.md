@@ -1,8 +1,11 @@
 # parse-dswd-dromic-reports
-Parse tables in DSWD-DROMIC reports to csv
+Parse tables in DSWD-DROMIC reports to csv. Built in support to typhoon Rai (2021).
+
+Latest DSWD-DROMIC reports can be obtained [here](https://dromic.dswd.gov.ph/). 
 
 ### Requirements
-[Python > 3.7](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/getting-started/)
+- [Python > 3.7](https://www.python.org/downloads/)
+- [pip](https://pip.pypa.io/en/stable/getting-started/)
 
 ### Setup
 ```
